@@ -50,13 +50,3 @@ span {
     background: linear-gradient(rgb(22, 22, 22), rgb(194, 23, 23));
     transform: rotateY(calc(90deg*var(--i))) translateZ(125px);
 }
-
-.cube-top {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 250px;
-    height: 250px;
-    background-color: rgb(46, 42, 42);
-    transform: rotateX(90deg) translateZ(125px);
-}
